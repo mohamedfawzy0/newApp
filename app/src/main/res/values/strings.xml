@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">New app</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="str_language_arabic">العربية</string>
+    <string name="str_language_english">English</string>
+    <string name="general_error">General error</string>
+    <string name="loading">Loading</string>
+    <string name="str_session_expire">Session Expired, Please LogIn Now</string>
+    <string name="str_logout_message">Logout Successfully</string>
+    <string name="login">Login</string>
+    <string name="or">OR</string>
+    <string name="register">Register</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="home">Home</string>
+    <string name="settings">Setttings</string>
+</resources>

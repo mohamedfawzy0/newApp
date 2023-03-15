@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_indicator_color_selected">#eeee</color>
+    <color name="default_indicator_color_unselected">#66eeeeee</color>
+    <!--black transparent-->
+    <color name="transparent">#00000000</color>
+
+    <color name="black_transparent_25">#44000000</color>
+</resources>

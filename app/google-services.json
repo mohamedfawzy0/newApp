@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152130146934",
+    "project_id": "torch-app-ba2c4",
+    "storage_bucket": "torch-app-ba2c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152130146934:android:a08f148349dde6a4bf8557",
+        "android_client_info": {
+          "package_name": "com.app.torchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152130146934-hkd11ku69ep4nkh1lv13dqe8e4ifdsto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1KnkcAH90fKUqFDaphzNlGqNYQDtwpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152130146934-hkd11ku69ep4nkh1lv13dqe8e4ifdsto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
